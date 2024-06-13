@@ -5,6 +5,7 @@ bem vindo🖤
 ![](https://media.tenor.com/uG0AZOy1b24AAAAM/nutria-otter.gif)
 
 meu nome: Caio Eduardo
+
 sou um eatudante do E.E. Joao Cardoso dos Santos
 
 /variaveis da bolinha
