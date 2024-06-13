@@ -8,6 +8,7 @@ meu nome: Caio Eduardo
 
 sou um eatudante do E.E. Joao Cardoso dos Santos
 
+
 /variaveis da bolinha
 let xBolinha = 100;
 let yBolinha = 200;
